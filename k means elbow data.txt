@@ -1,0 +1,21 @@
+
+
+5 clusters = 0.9059812081246308 avg distance to centroid
+
+6 clusters = 0.8559805675909326 avg distance to centroid
+
+7 clusters = 0.8143138858349495 avg distance to centroid
+
+8 clusters = 0.7656906655278953 avg distance to centroid
+
+9 clusters = 0.724831877763377 avg distance to centroid
+
+10 clusters = 0.6762478538923082 avg distance to centroid
+
+11 clusters = 0.6885221884366033 avg distance to centroid
+
+12 clusters = 0.6919492564841897 avg distance to centroid
+
+13 clusters = 0.6764332153249384 avg distance to centroid
+
+
